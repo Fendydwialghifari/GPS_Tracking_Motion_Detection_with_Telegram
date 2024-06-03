@@ -29,11 +29,11 @@ bool distancesent = false;
 MPU6050 mpu(Wire);
 
 // Replace with your network credentials
-const char* ssid = "redmi";
-const char* password = "12345678";
+const char* ssid = "xxxxx";
+const char* password = "xxxxx";
 
 // Initialize Telegram BOT
-#define BOTtoken "7145576073:AAF14-uQMgI3eAJd4pD75Zj3Ygo09bUWazs"  // your Bot Token (Get from Botfather)
+#define BOTtoken "xxxxxxxx"  // your Bot Token (Get from Botfather)
 
 // Use @myidbot to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
